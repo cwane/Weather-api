@@ -9,8 +9,3 @@ weather-api is a simple project implementing all mighty weather-api to fetch and
 ### 📚 What did I learn ?
 - working with apis, async and await
 - implementation of important steps of problem solving
-
-### 🌎 Future updates
-> repsonsive design for mobile devices coming soon
-
-> 🌐 check out the project now @[https://sudeep-k.github.io/weather-api]
